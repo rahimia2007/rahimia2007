@@ -18,6 +18,8 @@ a web designer and coder with a passion for creativity and innovation. I special
   &nbsp;
   <img src="https://github.com/rahimia2007/rahimia2007/blob/main/javascript-colored.svg" width="36" height="36" alt="Javascript" />
   &nbsp;
+  <img src="https://github.com/rahimia2007/rahimia2007/blob/main/sass.svg" width="36" height="36" alt="Javascript" />
+  &nbsp;
   <img src="https://github.com/rahimia2007/rahimia2007/blob/main/bootstrap-colored.svg" width="36" height="36" alt="Javascript" />
 </div>
 
