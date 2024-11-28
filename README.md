@@ -10,13 +10,7 @@ a web designer and coder with a passion for creativity and innovation. I special
 - 🧠  I'm learning Front-End
 
 
-
-
-<h3>👨‍💻 &nbsp; About Me</h3>
-
-- 🎓 &nbsp; Student of Computer In School
-- ✍️ &nbsp; Learning Front-End
-- 🌱 &nbsp; Coding, Learning and Game are My Hobby :))
+### skills
 
 <h3>👨‍💻 &nbsp; Social Media</h3>
 
