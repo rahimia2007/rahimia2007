@@ -9,6 +9,8 @@ a web designer and coder with a passion for creativity and innovation. I special
 - 🖥️  See my portfolio at [abolfazlr](https://abolfazlr.netlify.app)
 - 🧠  I'm learning Front-End
 
+  
+<br/>
 
 ### skills
 <div>
@@ -26,7 +28,7 @@ a web designer and coder with a passion for creativity and innovation. I special
 </div>
 
 
-
+<br/>
 
 ### Social Media
 
