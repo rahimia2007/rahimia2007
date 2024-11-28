@@ -28,7 +28,7 @@ a web designer and coder with a passion for creativity and innovation. I special
 
 
 
-<h3>👨‍💻 &nbsp; Social Media</h3>
+### Social Media
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/989015938070)
 [![Telegram](https://img.shields.io/badge/Telegram-184199.svg?logo=telegram&logoColor=white)](https://t.me/rahimia1385)
