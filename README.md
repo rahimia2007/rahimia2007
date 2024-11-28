@@ -1,9 +1,9 @@
 # Hi There! I'm Abolfazl Rahimi 🖐
 
-## Front-End Developer
+### Front-End Developer
 
 ---
-
+a web designer and coder with a passion for creativity and innovation. I specialize in Front-End, and love taking on new challenges. I'm open to collaboration and eager to exchange ideas. Let's create something amazing together in the world of web design!
 
 
 <h3>👨‍💻 &nbsp; About Me</h3>
