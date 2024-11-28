@@ -12,7 +12,7 @@ a web designer and coder with a passion for creativity and innovation. I special
   
 <br/>
 
-### skills
+### Skills
 <div>
   <img src="https://github.com/rahimia2007/rahimia2007/blob/main/html5-colored.svg" width="36" height="36" alt="Javascript" />
   &nbsp;
