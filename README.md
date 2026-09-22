@@ -3,16 +3,17 @@
 ### Front-End Developer
 
 ---
+
 a web designer and coder with a passion for creativity and innovation. I specialize in Front-End, and love taking on new challenges. I'm open to collaboration and eager to exchange ideas. Let's create something amazing together in the world of web design!
 
 - 🌍  I'm based in Karaj(Iran)
 - 🖥️  See my portfolio at [abolfazlr](https://abolfazlr.netlify.app)
 - 🧠  I'm learning Front-End
 
-  
 <br/>
 
 ### Skills
+
 <div>
   <img src="https://github.com/rahimia2007/rahimia2007/blob/main/html5-colored.svg" width="36" height="36" alt="Javascript" />
   &nbsp;
@@ -24,9 +25,10 @@ a web designer and coder with a passion for creativity and innovation. I special
   &nbsp;
   <img src="https://github.com/rahimia2007/rahimia2007/blob/main/tailwindcss.svg" width="36" height="36" alt="tailwindcss" />
   &nbsp;
+  <img src="https://github.com/rahimia2007/rahimia2007/blob/main/npm.svg" width="36" height="36" alt="Javascript" />
+  &nbsp;
   <img src="https://github.com/rahimia2007/rahimia2007/blob/main/git-icon.svg" width="36" height="36" alt="Javascript" />
 </div>
-
 
 <br/>
 
@@ -35,6 +37,5 @@ a web designer and coder with a passion for creativity and innovation. I special
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/989015938070)
 [![Telegram](https://img.shields.io/badge/Telegram-184199.svg?logo=telegram&logoColor=white)](https://t.me/rahimia1385)
 [![Instagram](https://img.shields.io/badge/instagram-fd1d1d.svg?logo=instagram&logoColor=white)](https://www.instagram.com/rahimi.abolfazl.2007)
-
 
 <img src="https://github.com/rahimia2007/rahimia2007/blob/main/github-contribution-grid-snake.svg"/>
